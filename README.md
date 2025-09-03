@@ -3,7 +3,7 @@ ProConnect
 ProConnect is a professional networking web application built with the MERN stack (MongoDB, Express, React, Node.js).
 It enables users to connect, share posts, build their profile, and interact with others in a career-focused environment.
 
-🚀 Features
+Features
 
 🔐 Authentication & Authorization – Secure login and JWT-based authentication.
 
